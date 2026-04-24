@@ -163,16 +163,16 @@ GuardVal_Air = 2.0
 GuardVal_Crouch = 1.5
 
 [Type_2] // HalfMoonStyle ----------------------------------------------------------■
-SparkType = 2 // AUTO
+SparkType = 0 // AUTO
 MagicCircuitMax = 20000 // 20000
-CircuitSpark = 0
+CircuitSpark = 1
 ReverseBeat = 1
 
 AttackRatio_BloodHeat = 1.0  // 状態に対する係数
-AttackRatio_Heat = 1.10
+AttackRatio_Heat = 1.0
 AttackRatio_Max = 1.0
 DefenceRatio_BloodHeat = 1.0
-DefenceRatio_Heat = 0.8
+DefenceRatio_Heat = 1.0
 DefenceRatio_Max = 1.0
 
 MC_PlusVal = 0.74 // マジックサーキットゲージ増加率
@@ -182,8 +182,8 @@ IsExGuard = 1
 IsExReduce = 0
 IsReduce = 1
 
-BloodHeat_HpPlus = 20 // BloodHeat時HP回復値
-Heat_HpPlus = 20 // Heat時HP回復値
+BloodHeat_HpPlus = 16 // BloodHeat時HP回復値
+Heat_HpPlus = 8 // Heat時HP回復値
 
 VSDamageVal = 1.00 // ヴァイタルソース攻撃力係数
 
