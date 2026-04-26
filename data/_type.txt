@@ -109,11 +109,11 @@ CircuitSpark = 1
 ReverseBeat = 0
 
 AttackRatio_BloodHeat = 1.13  // 状態に対する係数
-AttackRatio_Heat = 1.00
-AttackRatio_Max = 1.00
+AttackRatio_Heat = 1.07
+AttackRatio_Max = 1.0
 DefenceRatio_BloodHeat = 0.85
-DefenceRatio_Heat = 1.00
-DefenceRatio_Max = 1.00
+DefenceRatio_Heat = 0.90
+DefenceRatio_Max = 1.0
 
 MC_PlusVal = 0.9 // マジックサーキットゲージ増加率
 MC_GuardPlus = 1 // ガード時に増加するかどうか
@@ -168,11 +168,11 @@ MagicCircuitMax = 20000 // 20000
 CircuitSpark = 1
 ReverseBeat = 1
 
-AttackRatio_BloodHeat = 1.0  // 状態に対する係数
-AttackRatio_Heat = 1.0
+AttackRatio_BloodHeat = 1.13  // 状態に対する係数
+AttackRatio_Heat = 1.07
 AttackRatio_Max = 1.0
-DefenceRatio_BloodHeat = 1.0
-DefenceRatio_Heat = 1.0
+DefenceRatio_BloodHeat = 0.85
+DefenceRatio_Heat = 0.90
 DefenceRatio_Max = 1.0
 
 MC_PlusVal = 0.74 // マジックサーキットゲージ増加率
