@@ -9,14 +9,14 @@ To install this mod from scratch:
 2. Download "Source code" from the latest release.
 3. Extract the contents of the zip file.
 4. Move the contents of the extracted folder into the same directory as MBAA and cccaster.
-   1. This should include: data/, grp/, _FinishList.txt, _sysfont.ini, charaselect.txt, font.fnt, fontl.fnt, and fonts.fnt.
+   1. This should include: data/, grp/, _FinishList.txt, _sysfont.ini, charaselect.txt, font.fnt, fontl.fnt, fonts.fnt, and gonpyblood_mbaa_updater.exe.
 5. Select replace when prompted about existing files.
 6. Rename/move/delete 0002.p, 0003.p, and 0004.p.
-7. Launch training mode. If CSS has inverted colors, the mod has been installed.
+7. Run gonpyblood_mbaa_updater.exe (must be in the same directory as MBAA.exe).
+   1. If the "Date Modified" on MBAA.exe changes, it worked.
+9. Launch training mode. If the CSS background has inverted colors, the mod has been installed.
 
-To update your installation:
-1. Download the relevant update zip file.
-   1. full-update.zip contains all the changes since v1.0
-   2. quick-update.zip contains all the changes since the prior release.
+To update your installation from the previous version:
+1. Download quick-update.zip.
 2. Extract the contents of the zip file into the same directory as MBAA and cccaster.
 3. Select replace when prompted about existing files.
