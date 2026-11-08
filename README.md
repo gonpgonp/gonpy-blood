@@ -1,4 +1,4 @@
-This mod, often referred to as "gonpy blood", was used in the "this is not melty blood" tournament.
+gonpy blood is an MBAACC mod created by me (gonp) that was used in the "this is not melty blood" tournament.
 
 A list of changes can be found [here](https://docs.google.com/document/d/1iv6xgKyQ7xnv60Tm4OL7GoOSsVRRKqijy1dccO6tOvQ/edit?usp=sharing).
 
