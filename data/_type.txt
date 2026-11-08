@@ -163,7 +163,7 @@ GuardVal_Air = 2.0
 GuardVal_Crouch = 1.5
 
 [Type_2] // HalfMoonStyle ----------------------------------------------------------Å°
-SparkType = 0 // AUTO
+SparkType = 2 // AUTO
 MagicCircuitMax = 20000 // 20000
 CircuitSpark = 1
 ReverseBeat = 1
