@@ -10,6 +10,7 @@ To install this mod from scratch:
 3. Extract the contents of the zip file.
 4. Move the contents of the extracted folder into the same directory as MBAA and cccaster.
    1. This should include: data/, grp/, _FinishList.txt, _sysfont.ini, charaselect.txt, font.fnt, fontl.fnt, fonts.fnt, and gonpyblood_mbaa_updater.exe.
+   2. .gitignore, README.md, and gonpyblood_mbaa_updater.py can all be ignored or deleted.
 5. Select replace when prompted about existing files.
 6. Rename/move/delete 0002.p, 0003.p, and 0004.p.
 7. Run gonpyblood_mbaa_updater.exe (must be in the same directory as MBAA.exe).
